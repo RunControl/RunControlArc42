@@ -3,9 +3,9 @@
 
 ##  About this Repository | Bu Depo Hakkında
 
-This repository contains the **Arc42 software architecture documentation** for the mobile application **RunControl**.
+This repository contains the **Arc42 software architecture documentation** for the mobile game **RunControl**.
 
-Bu depo, **RunControl** adlı mobil uygulama için hazırlanmış **Arc42 yazılım mimarisi dokümantasyonunu** içermektedir.
+Bu depo, **RunControl** adlı mobil oyun için hazırlanmış **Arc42 yazılım mimarisi dokümantasyonunu** içermektedir.
 
 ---
 
